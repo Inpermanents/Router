@@ -1,5 +1,5 @@
 #### 建议阅读语雀版本
-https://www.yuque.com/docs/share/6b1a7c22-b81d-4344-b3ec-b74481bd1cb8?#
+(点击此处跳转)[https://www.yuque.com/docs/share/6b1a7c22-b81d-4344-b3ec-b74481bd1cb8?#]
 
 > 💡 Tip
 > - 记得备份
